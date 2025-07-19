@@ -14,7 +14,6 @@
 - 👨‍💻 I’m currently working on a **Pet Adoption Platform (Pawgle)**.
 - 📚 Currently learning React.js, REST APIs, and improving DSA skills.
 - 🎯 My goal: To become a full-stack web developer and crack tech interviews.
-- 📝 I write technical content and document my learning through GitHub projects.
 
 ---
 
