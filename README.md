@@ -1,50 +1,104 @@
-<h1 align="center">Hi 👋, I'm Pragyan Bharati Moharana</h1>
-<h3 align="center">A passionate full-stack developer and Python enthusiast from India 🇮🇳</h3>
+# Hi 👋, I'm Pragyan Bharati Moharana
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Tech+Explorer+%F0%9F%94%A5;Passionate+about+Web+Dev+%F0%9F%92%BB;Python+%26+Django+Lover+%F0%9F%90%8D;Let's+Build+Something+Amazing+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
+### 🐍 Python Developer | Django Developer | 🤖 Machine Learning Enthusiast
 
----
-
-### 💫 About Me:
-- 🎓 I'm a B.Tech student passionate about development, data structures, and building real-world projects.
-- 🐍 I love backend development using Django and Python.
-- 🌐 I build interactive frontends using HTML, CSS, JavaScript & Bootstrap.
-- 👨‍💻 I’m currently working on a **Pet Adoption Platform (Pawgle)**.
-- 📚 Currently learning React.js, REST APIs, and improving DSA skills.
-- 🎯 My goal: To become a full-stack web developer and crack tech interviews.
+Computer Science graduate passionate about building practical web applications and Machine Learning solutions.
 
 ---
 
-### 🔧 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,js,sqlite,mysql,github,react" />
-</p>
+## 👨‍💻 About Me
+
+- 🎓 Computer Science graduate with a strong interest in *Python Development and Machine Learning*
+- 🐍 Experienced in building web applications using *Python, Django and Django REST Framework*
+- 🤖 Hands-on experience with *Scikit-learn, Pandas, NumPy and Machine Learning*
+- 💻 Interested in backend development, REST APIs and data-driven applications
+- 🏆 *Smart India Hackathon 2024 Finalist — Top 5 out of 500 teams*
+- 🚀 Currently improving my skills in *React.js, DSA and backend development*
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+🐍 Python • ☕ Java • JavaScript • SQL
+
+### Web Development
+HTML • CSS • Bootstrap • Django • Django REST Framework
+
+### Machine Learning & Data Science
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+
+### Databases
+MySQL • SQLite
+
+### Tools
+Git • GitHub • VS Code • Jupyter Notebook • Microsoft Excel
+
+### Core Computer Science
+Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Mansik-Santulan-Score
+*Mental Health Score Prediction System*
+
+- ML-powered application for predicting mental health scores on a 0–10 scale
+- Built a Random Forest Regression pipeline with preprocessing
+- Integrated the trained ML model with a Django backend
+- Deployed the application on Render
+
+*Tech:* Python • Scikit-learn • Django • REST API • HTML • CSS • JavaScript
+
+🔗 *Live Demo:* https://mansik-santulan-score-6zgn.onrender.com
+
+---
+
+### 💊 MedGuard
+*Medicine Quality Monitoring System*
+
+- Web-based system for monitoring medicine quality and expiry status
+- Implemented Excel file processing using TypeScript
+- Classifies medicines as Active or Inactive based on expiry-date logic
+- Developed as part of *Smart India Hackathon 2024*
+
+*Tech:* HTML • CSS • JavaScript • Django REST Framework • TypeScript
+
+🏆 *SIH 2024 Finalist — Top 5 out of 500 teams*
+
+---
+
+### 🎁 CheerishCraft
+*Customized Gift E-commerce Platform*
+
+- Developed an e-commerce platform for personalized gifts
+- Implemented user authentication, product management, cart and order management
+- Built responsive interfaces using Bootstrap and JavaScript
+
+*Tech:* HTML • CSS • JavaScript • Bootstrap • Django
+
+---
+
+## 🏆 Achievements
+
+- 🥇 *Smart India Hackathon (SIH) 2024 Finalist* — Top 5 out of 500 teams
+- 🏅 *Branch Topper* — Ranked 1st in Second Year, CSE Department
 
 ---
 
 
 
-### 🏆 Achievements:
+## 📫 Connect With Me
 
-- 🥈 Smart India Hackathon Finalist (Team: Code_Crusaders)  
+📧 *Email:* pragyanbmoharana@gmail.com
 
----
+💼 *LinkedIn:*  
+https://www.linkedin.com/in/pragyan-bharati-moharana/
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragyanmoharana&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragyanmoharana&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyanmoharana&layout=compact&theme=tokyonight" />
-</p>
+🐙 *GitHub:*  
+https://github.com/Pragyanmoharana
 
 ---
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pragyanmoharana&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### ✨ Let's Build Something Amazing!
