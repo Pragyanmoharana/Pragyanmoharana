@@ -1,104 +1,45 @@
-# Hi 👋, I'm Pragyan Bharati Moharana
+# Pragyan Bharati Moharana
 
-### 🐍 Python Developer | Django Developer | 🤖 Machine Learning Enthusiast
+*Python Developer | Django Developer | Machine Learning Enthusiast*
 
-Computer Science graduate passionate about building practical web applications and Machine Learning solutions.
+Computer Science and Engineering graduate interested in backend development, web applications, and machine learning solutions.
 
----
+## About Me
 
-## 👨‍💻 About Me
+- Computer Science and Engineering graduate from GITA Autonomous College, Bhubaneswar.
+- Interested in Python development, backend engineering, and Machine Learning.
+- Experience building web applications using Django and Django REST Framework.
+- Familiar with data analysis and machine learning libraries, including NumPy, Pandas, and Scikit-learn.
+- Smart India Hackathon 2024 finalist.
 
-- 🎓 Computer Science graduate with a strong interest in *Python Development and Machine Learning*
-- 🐍 Experienced in building web applications using *Python, Django and Django REST Framework*
-- 🤖 Hands-on experience with *Scikit-learn, Pandas, NumPy and Machine Learning*
-- 💻 Interested in backend development, REST APIs and data-driven applications
-- 🏆 *Smart India Hackathon 2024 Finalist — Top 5 out of 500 teams*
+## Technical Skills
 
+*Programming Languages:* Python, Java, JavaScript, SQL
 
----
+*Web Development:* HTML, CSS, Bootstrap, Django, Django REST Framework
 
-## 🛠️ Tech Stack
+*Machine Learning and Data Science:* NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-### Programming Languages
-🐍 Python • ☕ Java • JavaScript • SQL
+*Databases:* MySQL, SQLite
 
-### Web Development
-HTML • CSS • Bootstrap • Django • Django REST Framework
+*Tools:* Git, GitHub, VS Code, Jupyter Notebook, Microsoft Excel
 
-### Machine Learning & Data Science
-NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+*Core Computer Science:* Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks
 
-### Databases
-MySQL • SQLite
+## Education
 
-### Tools
-Git • GitHub • VS Code • Jupyter Notebook • Microsoft Excel
+*Bachelor of Technology in Computer Science and Engineering*  
+GITA Autonomous College, Bhubaneswar, Odisha  
+Graduation Year: 2026
 
-### Core Computer Science
-Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
+## Achievements
 
----
+- Smart India Hackathon 2024 Finalist — Top 5 out of 500 teams.
+- Branch Topper — Ranked 1st in Second Year, CSE Department.
 
-## 🚀 Featured Projects
+## Connect With Me
 
-### 🧠 Mansik-Santulan-Score
-*Mental Health Score Prediction System*
-
-- ML-powered application for predicting mental health scores on a 0–10 scale
-- Built a Random Forest Regression pipeline with preprocessing
-- Integrated the trained ML model with a Django backend
-- Deployed the application on Render
-
-*Tech:* Python • Scikit-learn • Django • REST API • HTML • CSS • JavaScript
-
-🔗 *Live Demo:* https://mansik-santulan-score-6zgn.onrender.com
-
----
-
-### 💊 MedGuard
-*Medicine Quality Monitoring System*
-
-- Web-based system for monitoring medicine quality and expiry status
-- Implemented Excel file processing using TypeScript
-- Classifies medicines as Active or Inactive based on expiry-date logic
-- Developed as part of *Smart India Hackathon 2024*
-
-*Tech:* HTML • CSS • JavaScript • Django REST Framework • TypeScript
-
-🏆 *SIH 2024 Finalist — Top 5 out of 500 teams*
-
----
-
-### 🎁 CheerishCraft
-*Customized Gift E-commerce Platform*
-
-- Developed an e-commerce platform for personalized gifts
-- Implemented user authentication, product management, cart and order management
-- Built responsive interfaces using Bootstrap and JavaScript
-
-*Tech:* HTML • CSS • JavaScript • Bootstrap • Django
-
----
-
-## 🏆 Achievements
-
-- 🥇 *Smart India Hackathon (SIH) 2024 Finalist* — Top 5 out of 500 teams
-- 🏅 *Branch Topper* — Ranked 1st in Second Year, CSE Department
-
----
-
-
-
-## 📫 Connect With Me
-
-📧 *Email:* pragyanbmoharana@gmail.com
-
-💼 *LinkedIn:*  
-https://www.linkedin.com/in/pragyan-bharati-moharana/
-
-🐙 *GitHub:*  
-https://github.com/Pragyanmoharana
-
----
-
-### ✨ Let's Build Something Amazing!
+- *Email:* [pragyanbmoharana@gmail.com](mailto:pragyanbmoharana@gmail.com)
+- *LinkedIn:* [LinkedIn Profile](https://www.linkedin.com/in/pragyan-bharati-moharana-1569b2284)
+- *GitHub:* [GitHub Profile](https://github.com/Pragyanmoharana)
+-
