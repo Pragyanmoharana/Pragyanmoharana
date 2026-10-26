@@ -13,7 +13,7 @@ Computer Science graduate passionate about building practical web applications a
 - 🤖 Hands-on experience with *Scikit-learn, Pandas, NumPy and Machine Learning*
 - 💻 Interested in backend development, REST APIs and data-driven applications
 - 🏆 *Smart India Hackathon 2024 Finalist — Top 5 out of 500 teams*
-- 🚀 Currently improving my skills in *React.js, DSA and backend development*
+
 
 ---
 
