@@ -18,7 +18,7 @@ Computer Science and Engineering graduate interested in backend development, web
 
 *Web Development:* HTML, CSS, Bootstrap, Django, Django REST Framework
 
-*Machine Learning and Data Science:* NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+*Machine Learning and Data Science:* NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn,NLP
 
 *Databases:* MySQL, SQLite
 
